@@ -1,0 +1,156 @@
+body {
+    font-family: helvetica;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.logo {
+    margin-left: 100px;
+}
+
+.nav-header {
+    background-color: #F1F3FF;
+}
+
+li .nav-item a {
+    color: black;
+    font-weight: 400;
+}
+
+.btn {
+    position: static;
+    height: 36px;
+    left: 359px;
+    top: 2px;
+}
+
+h1 {
+    font-size: 30px;
+    display: block;
+    font-weight: bold;
+    font-weight: 700;
+    line-height: 150%;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 25px;
+}
+
+/* .p-3 {
+    background-color: #F1F3FF;
+} */
+
+.sewa {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.why h4 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+li {
+    list-style: none;
+}
+
+.card-img-top {
+    width: 17%;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+}
+
+.sewa .card {
+    background-color: darkblue;
+}
+
+.border {
+    background-color: #0D28A6;
+    padding-top: 70px;
+}
+
+.item {
+    background-color: #F1F3FF;
+    width: 600px;
+    height: 270px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.15);
+}
+
+.item p {
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.item .username {
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+#faqs {
+    height: 100%;
+}
+
+#faqs h1 {
+    font-weight: 900;
+    font-size: 14px;
+}
+
+.accordion .card {
+    background: none;
+}
+
+.accordion .card .card-header {
+    background: none;
+}
+
+.accordion i {
+    float: right;
+}
+
+footer .footer {
+    position: absolute;
+    width: 268px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+
+    /* Body/14/Light */
+
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+}
+
+
+/* .btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+} */
+
+
+/* .testi-1 {
+    width: 70%;
+} */
